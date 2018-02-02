@@ -23,5 +23,7 @@ function switchOnCharmFromTip(charm){
       return 'Thank you.';      
   
     case 'thanks for everything':
-     return 'Bye.'; }
+      return 'Bye.'; 
+    
+  }
 }
